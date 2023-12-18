@@ -1,7 +1,6 @@
-/*
-  Print all even numbers from 1 to 10 and odd numbers from 1 to 10.
-  Using the concept of blocks.
-*/
+// Print all even numbers from 1 to 10 and odd numbers from 1 to 10.
+// Using the concept of blocks.
+
 {
   console.log("Odd numbers");
   console.log("1");
