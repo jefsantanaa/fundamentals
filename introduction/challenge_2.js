@@ -2,7 +2,7 @@
 // Math.PI
 
 const PI = 3.141592;
-const ray = 10;
-let areaCirc = PI * ray * ray;
+const radius = 10;
+let areaCirc = PI * radius * radius;
 
 console.log("The area valor is: " +areaCirc);
